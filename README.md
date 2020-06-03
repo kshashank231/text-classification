@@ -1,2 +1,2 @@
-# text-classification
+# Text-Classification
 FAKE NEWS DETECTION USING NLP AND MACHINE LEARNING
